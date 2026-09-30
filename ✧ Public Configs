@@ -123,3 +123,6 @@ vmess://eyJhZGQiOiIzMS43Ni4xMS44MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0
 ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%E2%98%95%EF%B8%8F%20CNTCaf%C3%A9
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%E2%98%95%EF%B8%8F%20CNTCaf%C3%A9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyNUQ2WU9TclQ2a0M3NnJv@20.123.34.66:443#%E2%98%95%EF%B8%8F%20CNTCaf%C3%A9
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%E2%98%95%EF%B8%8FCNTCaf%C3%A9
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%E2%98%95%EF%B8%8FCNTCaf%C3%A9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%E2%98%95%EF%B8%8FCNTCaf%C3%A9
