@@ -59,7 +59,7 @@ Most "free config" lists test from a datacenter in Europe. That proves nothing a
 config works **from inside Iran**. This project probes every config through a **genuine Iranian
 residential connection** — a rotating SIM that covers the real Iranian mobile networks:
 
-> 🇮🇷 **Rightel · APTEL · Irancell**
+> 🇮🇷 **Rightel · Aptel · Irancell**
 
 A config is published **only if it actually connects from Iran** — not from a datacenter, not from
 a VPN, not from a "close enough" location. That is why what you see here tends to actually work
@@ -109,9 +109,9 @@ Including the apps most used inside Iran:
 
 | Platform | Clients |
 |---|---|
-| **Android** | V2rayNG · NekoBox · Hiddify · **Incy** · **PattNG** · **NPV Tunnel** · **Happ** |
-| **iOS** | Streisand · Shadowrocket · **V2Box** · **ZedSecure** · **Happ** |
-| **Windows** | v2rayN · NekoRay · Hiddify · Clash Verge |
+| **Android** | V2rayNG · Hiddify · **Incy** · **PattNG** · **NPV Tunnel** · **Happ** |
+| **iOS** | Streisand · Shadowrocket · **V2Box** · **Happ** · NPV Tunnel |
+| **Windows** | v2rayN · NekoRay · Hiddify · Clash Verge · PattN · Zedsecure |
 | **macOS** | V2Box · Hiddify · Clash Verge |
 | **Linux** | NekoRay · Hiddify |
 
