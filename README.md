@@ -45,7 +45,13 @@ Copy the link, paste it into the client as a **subscription**, update, and conne
 
 ---
 
-## 🔬 The three things that make this list different
+## 🔬 What makes this list different
+
+Most similar subscriptions only **collect and re-post**. This one goes further:
+it **collects, filters, tests — and then tests again from inside Iran itself.**
+
+> ❌ Other lists: collect → re-post
+> ✅ **CNTCafé: collect → dedupe → security-filter → Test A → test from a real Iranian IP → publish**
 
 ### 1. Tested from a **real Iranian IP — not a datacenter**
 
