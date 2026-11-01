@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☕ کانفیگ‌های عمومی CNTCafé
+# ☕ کانفیگ‌های عمومی سی‌ان‌تی کافه
 
 **کانفیگ‌های رایگان و تست‌شدهٔ V2Ray و Xray — روزی ۶ بار به‌روز می‌شود.**
 VLESS · VMess · Trojan · Shadowsocks · Hysteria2 — برای V2rayNG، Hiddify، NekoBox، v2rayN، V2Box، Happ، Streisand و Clash Meta و بیشتر.
